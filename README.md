@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mamblor
-- 👀 I’m interested in machine learning, music and surfing
-- 🌱 I’m currently learning python, mathematica, astrophysics & relativity
-- 💞️ I’m looking to collaborate on earthquake research
+- 👀 I’m interested in machine learning, unreal engine, music and surfing
+- 🌱 I’m currently learning UE5, python, mathematica, simulation, astrophysics & relativity
+- 💞️ I’m looking to collaborate on earthquake research, unreal engine and simulation
 - 📫 How to reach me mambo.roberts88@gmail.com
 
 <!---
